@@ -1,2 +1,2 @@
 # AndroidTestApplication
-Consuming REST API data on Android
+Consuming REST Mock Web service data on Android
